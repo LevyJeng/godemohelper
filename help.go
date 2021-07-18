@@ -1,5 +1,5 @@
 package help
-func help(){
+func Help(){
   println("help")
 }
 func main(){
