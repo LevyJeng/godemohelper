@@ -1,3 +1,3 @@
-module github.com/levyjeng/godemo
+module github.com/levyjeng/godemohelper
 
 go 1.16
