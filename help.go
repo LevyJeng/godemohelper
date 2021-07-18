@@ -1,4 +1,4 @@
-package main
+package help
 func help(){
   println("help")
 }
